@@ -48,7 +48,18 @@ function App() {
       <br />
       <br />
       <br />
+
+      <hr />
+      <br />
+      <br />
+      <br />
+
       <BarChart />
+      <br />
+      <br />
+      <br />
+
+      <hr />
       <br />
       <br />
       <br />
